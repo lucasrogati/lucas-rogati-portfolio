@@ -1,20 +1,27 @@
 # Lucas Rogati — Portfólio
 
-Portfólio profissional estático para apresentar serviços de desenvolvimento web voltados a negócios locais.
+Portfólio profissional de Lucas Rogati, desenvolvedor web independente com foco em sites-vitrine, catálogos digitais e páginas comerciais para negócios locais.
+
+## Projetos exibidos
+
+- **Labelly** — projeto comercial publicado para loja de moda feminina: https://labelly.pages.dev
+- **INSPECPRO** — sistema autoral em desenvolvimento, com frontend e backend separados: https://github.com/lucasrogati/INSPECPRO
+- **Santa Onda** — estudo de site institucional: https://github.com/lucasrogati/santaOnda_site
+- **Celina Moda Executiva** — estudo visual em criação.
+
+## Contato
+
+- WhatsApp: https://wa.me/5513997810174
+- E-mail: lucasroberto7258@gmail.com
+- GitHub: https://github.com/lucasrogati
 
 ## Arquivos
-- `index.html`: estrutura e textos.
+
+- `index.html`: página principal.
 - `styles.css`: estilos responsivos.
-- `script.js`: menu mobile e ano automático.
+- `script.js`: interação de menu mobile e ano automático.
+- `favicon.svg`: favicon LR.
 
-## Antes de publicar
-1. Em `index.html`, substitua `SEU_NUMERO_AQUI` pelo seu WhatsApp com DDI e DDD, sem `+`.
-2. Substitua `SEU_EMAIL_AQUI` pelo seu e-mail.
-3. Mantenha J.A Outlet e Celina identificados como estudos de conceito enquanto não houver autorização/contrato para apresentá-los como clientes.
+## Publicação
 
-## Publicar
-- GitHub Pages: Settings → Pages → Deploy from branch `main`, pasta `/ (root)`.
-- Cloudflare Pages: conecte o repositório como site estático, sem comando de build.
-- Vercel: importe o repositório como projeto estático.
-
-Projeto real destacado: https://labelly.pages.dev
+O projeto é estático e pode ser publicado em GitHub Pages, Cloudflare Pages ou Vercel sem comando de build.
