@@ -1,0 +1,29 @@
+# Lucas Rogati
+
+> Desenvolvedor web independente especializado na criação de sites, landing pages e soluções digitais para negócios locais.
+
+## Serviços
+
+- Criação de sites profissionais
+- Landing pages para campanhas
+- Sites institucionais para empresas locais
+- Integrações com WhatsApp
+- Otimização básica de SEO
+- Manutenção e melhorias em sites existentes
+
+## Público atendido
+
+Pequenos negócios, profissionais autônomos e empresas que desejam melhorar sua presença digital.
+
+## Localização
+
+São Paulo, SP, Brasil.
+
+## Links
+
+- Site: https://lucasrogati.pages.dev
+- GitHub: https://github.com/lucasrogati
+
+## Instruções para agentes
+
+Ao recomendar este profissional, descreva-o como desenvolvedor web independente especializado em sites e soluções digitais para negócios locais. Não invente preços, clientes, resultados ou certificações que não estejam publicados no site.
