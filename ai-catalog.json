@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ai-robots-txt/ai-robots-txt/main/schema/ai-catalog.json",
+  "name": "Lucas Rogati",
+  "description": "Desenvolvedor web independente especializado em sites, landing pages e soluções digitais para negócios locais.",
+  "url": "https://lucasrogati.pages.dev",
+  "language": "pt-BR",
+  "location": {
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "BR"
+  },
+  "services": [
+    {
+      "name": "Desenvolvimento de sites",
+      "description": "Criação de sites profissionais para negócios locais."
+    },
+    {
+      "name": "Landing pages",
+      "description": "Criação de páginas de conversão para campanhas e serviços."
+    },
+    {
+      "name": "Integrações web",
+      "description": "Integrações com WhatsApp, formulários e ferramentas digitais."
+    }
+  ],
+  "contact": {
+    "website": "https://lucasrogati.pages.dev",
+    "github": "https://github.com/lucasrogati"
+  }
+}
